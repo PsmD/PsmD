@@ -1,6 +1,6 @@
 ## _Hello, I'm Dogon Kim, Front-end developer_ 💻🖱
 
-<br /> I am developing based on React, and <br> recently I am also interested in Next.js and developing it and <br> I am planning to study development using Redux.😁 
+<br /> I am developing based on React, and <br> recently I am also interested in Next.js and <br> I am planning to study development using Redux.😁 
 
 <br> I want to become a developer that grows steadily.🏃
 
